@@ -27,6 +27,11 @@ public class Student {
         return (RE+SDA+SQAT+SEAM+FM);
     }
     
+    int countAll()
+    {
+        return 0;
+    }
+
     void testDisplay()
     {
         System.out.println("Testing...");
@@ -35,10 +40,6 @@ public class Student {
 
     }
    
-    void myTest(){
-        
-    }
-
     void testAll()
  {
      System.out.println("Hello");
