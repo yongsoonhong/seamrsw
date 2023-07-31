@@ -33,6 +33,10 @@ public class Student {
 
     }
    
+    void myTest(){
+        
+    }
+
     void testAll()
  {
      System.out.println("Hello");
